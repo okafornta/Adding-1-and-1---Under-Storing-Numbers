@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adding 1 and 1 - Under Storing Numbers", "Adding 1 and 1 - Under Storing Numbers\Adding 1 and 1 - Under Storing Numbers.csproj", "{95D94CC5-1EA2-4B38-8FD5-E3635B511255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95D94CC5-1EA2-4B38-8FD5-E3635B511255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D94CC5-1EA2-4B38-8FD5-E3635B511255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D94CC5-1EA2-4B38-8FD5-E3635B511255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D94CC5-1EA2-4B38-8FD5-E3635B511255}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A92ACEFD-E7B6-43E5-BC24-1382F4241859}
+	EndGlobalSection
+EndGlobal
